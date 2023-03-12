@@ -32,5 +32,3 @@ _in-development_
 ### Permissions:
 
 Feel free to use this pack in showcases but please give credit to me.
-
-Feel free to use the assets of the pack in your own packs if needed.
