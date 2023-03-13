@@ -1,6 +1,8 @@
 # AdvancedResources
 
-Realistic Resource Pack for Minecraft Java that includes some PBR functionality.
+Realistic Resource Pack for Minecraft Java that includes some PBR functionality. This Pack uses the default textures of Minecraft but adds features like POM and PBR to the default blocks. Note this pack only displays the changes with a PBR/POM Shader applied to Minecraft.
+
+I might add some custom textures for blocks later on but for now I will only be focused on the PBR/POM functionality.
 
 ---
 
