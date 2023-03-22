@@ -18,7 +18,7 @@ I might add some custom textures for blocks later on but for now I will only be 
 1. Download a the `.zip` folder of the pack
 2. Find your `.minecraft` folder in `%appdata%` by using typing `%appdata` into your path at the top of File Explorer
 3. Copy/Move the `.zip` file to the `resourcepacks` folder
-4. Run with shaders like [Complementary Shaders](https://www.complementary.dev/shaders-v4/) to experience 3D normalmaps and specular maps
+4. Run with shaders like [Complementary Shaders](https://www.complementary.dev/shaders-v4/) or [BSL Shaders](https://bitslablab.com/bslshaders/#download) to experience 3D normalmaps and specular maps
 
 OR
 
