@@ -1,4 +1,3 @@
-birch_log
 birch_log_top
 birch_planks
 blackstone
