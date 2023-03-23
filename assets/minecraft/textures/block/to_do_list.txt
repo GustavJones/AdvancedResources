@@ -1,5 +1,3 @@
-blackstone
-dark_oak_log
 dark_oak_log_top
 dark_oak_planks
 acacia_log
