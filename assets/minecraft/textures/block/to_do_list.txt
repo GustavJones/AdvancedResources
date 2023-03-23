@@ -1,4 +1,3 @@
-birch_planks
 blackstone
 dark_oak_log
 dark_oak_log_top
