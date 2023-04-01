@@ -1,5 +1,3 @@
-jungle_log
-jungle_log_top
 jungle_planks
 mangrove_log
 mangrove_log_top
