@@ -1,5 +1,3 @@
-acacia_log
-acacia_log_top
 acacia_planks
 jungle_log
 jungle_log_top
