@@ -1,4 +1,3 @@
-acacia_planks
 jungle_log
 jungle_log_top
 jungle_planks
