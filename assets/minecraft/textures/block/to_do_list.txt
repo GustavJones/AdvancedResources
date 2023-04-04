@@ -1,7 +1,4 @@
 jungle_planks
-mangrove_log
-mangrove_log_top
-mangrove_planks
 oak_log
 oak_log_top
 oak_planks
