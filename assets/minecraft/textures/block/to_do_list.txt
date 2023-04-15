@@ -1,4 +1,3 @@
-jungle_planks
 oak_log
 oak_log_top
 oak_planks
