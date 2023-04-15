@@ -1,0 +1,24 @@
+acacia log
+acacia planks
+basalt
+bedrock
+birch log
+birch planks
+blackstone
+clay
+coal block
+coal ore
+coarse dirt
+cobbled deepslate
+cobblestone
+dark oak log
+dark oak planks
+dirt
+dirt path
+grass block
+snowy grass block
+jungle logs
+jungle planks
+mangrove logs
+mangrove planks
+stone
